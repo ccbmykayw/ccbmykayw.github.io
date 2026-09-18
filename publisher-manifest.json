@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "6315cd25aac55b1193eae653",
+  "owner": "ccbmykayw",
+  "repo": "ccbmykayw.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "778d0d982a665b9416c25c9b",
+      "a": "PRPR橙(prpr)",
+      "b": "网络加速服务",
+      "entity": "PRPR橙(prpr)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "aad99e2907ff02c4f588bef355cbb09ed49f15bb6ff8cc2a85c7be979db9ad4c",
+      "content": {
+        "primary_entity": "PRPR橙(prpr)",
+        "keyword1": "PRPR橙(prpr)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应订阅客户端，再导入订阅完成连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按自己的设备与用量挑好套餐，就能快速开始配置订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，PRPR橙(prpr)提供基础版、旗舰版和团队版三档套餐，分别对应从个人轻度使用到多设备团队协作的不同需求，每档套餐在流量、设备数量和线路类型上各有侧重，用户可按日常使用场景和成员数量灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量和订阅周期三个角度说明使用要点。",
+          "AI_FEATURES_TITLE": "选择套餐的实用参考",
+          "AI_FEATURE_TEXT_1": "基础版适合个人日常使用，旗舰版增加设备数量与专线优化，团队版面向多人协作场景。",
+          "AI_FEATURE_TITLE_1": "按使用场景选套餐",
+          "AI_FEATURE_TEXT_2": "先确认手机、电脑、平板或路由器等常用设备的数量，再对照套餐支持的同时在线设备数。",
+          "AI_FEATURE_TITLE_2": "先确认设备数量",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付适合长期稳定使用，根据持续使用计划决定计费周期。",
+          "AI_FEATURE_TITLE_3": "订阅周期怎么选",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、依客户端文档配置订阅的顺序完成设置。",
+          "AI_GUIDE_TITLE": "配置订阅的三步",
+          "AI_HERO_INTRO": "PRPR橙(prpr)面向需要稳定网络加速的用户，提供基础版、旗舰版和团队版三档订阅方案。不同方案在流量额度、同时在线设备数量和线路类型上有所区分，方便个人、家庭和团队按实际需求选择。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备场景",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量匹配方案",
+          "AI_HIGHLIGHT_3": "支持月付与年付周期",
+          "AI_PLANS_INTRO": "对比不同套餐在流量、设备数量和线路支持上的差异，选择适合自己使用习惯的一档。",
+          "AI_PLANS_TITLE": "按用量对比套餐",
+          "AI_STEP_TEXT_1": "根据使用场景和成员数量，在基础版、旗舰版和团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备系统与套餐支持的同时在线设备数是否匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照所选客户端的使用文档导入订阅信息，完成连接配置后即可开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "PRPR橙多档加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合设备少、流量需求不高的日常使用；旗舰版增加设备支持数量，并加入专线游戏优化与优先工单支持。可按设备与线路要求选择。",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版、旗舰版与团队版分别对应不同的同时在线设备数。超出支持数量时可升级套餐，或为其他设备单独订阅。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "月付适合短期试用或临时需求，年付方案在长期使用场景下更为经济。可先按月体验，确认满足日常使用后再考虑年付。",
+          "AI_FAQ_QUESTION_4": "订阅配置一般怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中选择导入订阅或手动添加节点信息，按客户端文档提示填写即可。不同客户端操作路径略有差异，建议以所用客户端的配置说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供高带宽节点与定制路由，适合多人协作、跨地区办公或对带宽要求较高的小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "41433f4208d196eb56e26d0e5945b1b659dbe60bb817630d8df099507cf5c855",
+    "sitemap.xml": "8cc11e642b5b0ec0eda02dab2dc91eab1df0ba868bcc6099f207598bb5d79c19",
+    "robots.txt": "103376683873d95dc94b9ee685b8375c4b64e75e93fe8e7664a9ffb30d147660",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "5cb4b6f561b280cbbd575fb7ab5223bf27299885a44d08c9b37539d7fa8285bb"
+}
